@@ -1,2 +1,2 @@
 # New project 
-Project was creatd on local system.
+Project was creatd on local system
